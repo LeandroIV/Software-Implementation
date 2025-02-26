@@ -1,8 +1,16 @@
 1. What challenges did you face during this activity
--
+-   I face the challenge at step 6, I also screenshotted it and showed how I fixed it.
 
 2. Which Git command was the most confusing?
--
+-   There is no confusing command that I encountered as I know Github well.
 
 3. How can version control help in real-world software development?
--
+-   Software development in the real world depends upon version control systems because they
+    facilitate group work without destructive interactions between different developers' code files.
+    The system maintains a record of all changes which serves both as a debugging tool and provides
+    an opportunity to reverse modifications. The system acts simultaneously as a backup solution to
+    guard against data loss by enabling instant error recovery. A developer can conduct experiments
+    with new feature development through the combination of branching structures and merging
+    techniques which protect the main repository from interruption. The deployment of CI/CD
+    pipelines through version control enables automatic testing and deployment functions which
+    lead to smooth software release management.
