@@ -1,0 +1,8 @@
+1. What challenges did you face during this activity
+-
+
+2. Which Git command was the most confusing?
+-
+
+3. How can version control help in real-world software development?
+-
